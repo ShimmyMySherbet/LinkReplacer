@@ -8,4 +8,6 @@ This extension looks for links that appear to be direct, displaying a full URL t
 Then this extension replaces the link target with the URL that was shown to the user, killing tracking and analytic links you common recieve in emails or sites that have user generated content.
 
 ## Install
-This extension is still currently pending review on the Mozzilla addon store.
+You can install this extension from the Mozilla web store: https://addons.mozilla.org/en-US/firefox/addon/linkreplacer/
+
+A version for chrome may be released in the future if there is demand.
